@@ -13,6 +13,8 @@ Usage:
 ==================================================================================================================================================================    
 */  
 
+if object_id ('gold.dim_customers', 'v') is not null
+	 drop table gold.dim_customers;
 create view gold.dim_customers 
 as
 select 
@@ -35,6 +37,8 @@ left join Silver.erp_loc_a101 la on ci.cust_key = la.cid;
 
 ------------------------
 
+if object_id ('gold.dim_products', 'v') is not null
+	 drop table gold.dim_products;
 create view gold.dim_products
 as
 select 
@@ -55,6 +59,8 @@ where prd_end_date is null;
 
 ------------------------
 
+if object_id ('gold.fact_sales', 'v') is not null
+	 drop table gold.fact_sales;
 create view gold.fact_sales
 as
 select 

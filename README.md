@@ -109,6 +109,6 @@ I am fascinated by how systems work, how processes can be optimized, and how the
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sherif-gamal-61a304336)
-[![Upwork](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.upwork.com/freelancers/~01b7b6e3cdf572d79e)
+[![Upwork](file:///D:/Important/Programming/Data/Data%20Engineering/Projects/Baraa/SQL%20Data%20Warehouse/logo.html)](https://www.upwork.com/freelancers/~01b7b6e3cdf572d79e)
 [![Freelancer](https://img.shields.io/badge/Newsletter-FF5722?style=for-the-badge&logo=substack&logoColor=white)](https://www.freelancer.com/u/SherifGamal5)
 [![Portfolio](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://sherif-gamal-data-engine-ns2r13f.gamma.site/)

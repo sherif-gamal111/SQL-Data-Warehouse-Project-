@@ -59,7 +59,7 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 For more details, refer to [docs/requirements.md].
 
-## 📂 Repository Structure
+##📂 Repository Structure
 ```
 data-warehouse-project/
 │
@@ -87,7 +87,7 @@ data-warehouse-project/
 ```
 ---
 
-## ☕ Stay Connected
+##☕ Stay Connected
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
@@ -96,11 +96,11 @@ Let's stay in touch! Feel free to connect with me on the following platforms:
 [Freelancer](https://www.freelancer.com/u/SherifGamal5)
 [Portfolio](https://sherif-gamal-data-engine-ns2r13f.gamma.site/)
 
-## 🛡️ License
+##🛡️ License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
-## 🌟 About Me
+##🌟 About Me
 
 Hi, I’m Sherif, a Data Engineer with a strong foundation in Industrial Engineering and specialized in Data Engineering.
 I hold a Bachelor of Engineering (BEng) in Industrial Engineering from Canadian International College (CIC) and a Microsoft Data Engineering degree from Digital Egypt Pioneers Initiative (DEPI).

@@ -87,15 +87,6 @@ data-warehouse-project/
 ```
 
 ---
-## ☕ Stay Connected
-
-Let's stay in touch! Feel free to connect with me on the following platforms:
-
-[LinkedIn](www.linkedin.com/in/sherif-gamal-61a304336)
-[Upwork](https://www.upwork.com/freelancers/~01b7b6e3cdf572d79e)
-[Freelancer](https://www.freelancer.com/u/SherifGamal5)
-[Portfolio](https://sherif-gamal-data-engine-ns2r13f.gamma.site/)
-
 ## 🛡️ License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
